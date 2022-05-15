@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "8장-판단문을이용한학점계산기-최승호", "8장-판단문을이용한학점계산기-최승호\8장-판단문을이용한학점계산기-최승호.vbproj", "{C0411B4E-8F61-46B1-BEBA-9BC9C75D6A58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0411B4E-8F61-46B1-BEBA-9BC9C75D6A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0411B4E-8F61-46B1-BEBA-9BC9C75D6A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0411B4E-8F61-46B1-BEBA-9BC9C75D6A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0411B4E-8F61-46B1-BEBA-9BC9C75D6A58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
